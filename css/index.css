@@ -1,0 +1,118 @@
+:root{
+    --body-font: 'Chilanka', cursive;
+    --heading-font: 'Chilanka', cursive;
+    --secondary-font: 'Montserrat', sans-serif;
+    --color:#EBCEA9;
+}
+*{
+    font-family: var(--body-font);
+}
+svg{
+    color: var(--color);
+}
+
+.col.text-center a{
+    text-decoration: none;
+    color: rgb(20, 20, 20);
+    font-weight: 100;
+}
+.d-none ul.d-flex li a i{
+    color: black;
+}
+.bg-primary{
+color: var(--color);
+}
+#clothing a.btn {
+    margin-left: 500px;
+    width: 150px;
+}
+#Foodies a.btn {
+    margin-left: 500px;
+    width: 150px;
+}
+#Foodies{
+    margin-top: 150px;
+}
+#clothing .container.pb-5 .col-md-6 a{
+    margin-left: 500px;
+    width: 150px;
+}
+#clothing .container.pb-5 .col-md-6 h2{
+    font-size: 3rem;
+}
+span.shoppet01 i{
+    color: var(--color);
+}
+span.shoppet01 a .heart i{
+    color: black;
+}
+span.shoppet01 h3{
+    margin-top: 20px;
+}
+span.shoppet01 h4{
+    color: var(--color);
+    margin-top: 10px;
+}
+button.addcart{
+    border: 0.3px solid gray;
+    background-color: white;
+    height: 55px;
+    width: 180px;
+    font-weight: 2.5rem;
+    
+}
+button.heart{
+    border: 0.3px solid gray;
+    background-color: white;
+    height: 55px;
+    width: 70px;
+    font-weight: 2.5rem;
+    margin-left: 20px;
+    margin-top: 5px;
+    
+}
+.row.shoppet{
+    margin-top: 40px;
+}
+#text .container .row p.price{
+    font-size: 2rem !important;
+    width: 800px;
+}
+#text .container .row p{
+    margin-left: 300px;
+margin-top: 30px;
+}
+#banner-2 .container{
+    margin-top: 120px;
+}
+
+
+section#register .bannerRegister h3{
+    text-align: center;
+    margin-top: 30px;
+}
+section#register .bannerRegister p{
+    width: 300px;
+    margin-left: 500px;
+}
+section#register .bannerRegister hr.so2{
+    width: 900px;
+    text-align: center;
+    margin-left: 500px;
+}
+.container .row.shoppet .col-sm-3 img.img-fluid.rounded-4{
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+}
+a button.addcart{
+    border: 0.3px solid gray;
+    background-color: white;
+    height: 55px;
+    width: 180px;
+    font-weight: 2.5rem;
+    
+}
+.d-none.d-lg-flex.align-items-end .item-end.nav-flex-center ul li a i{
+    color: #000;
+}
